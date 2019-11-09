@@ -1,7 +1,7 @@
 {
-	"name": "gulp-cdn-absolute-path",
+	"name": "gulp-replace-assets-path",
 	"version": "0.0.6",
-	"description": "A gulp plugin for replacing local path with cdn absolute path",
+	"description": "A gulp plugin for replacing local path with a cdn path",
 	"license": "MIT",
 	"keywords": [
 		"absolutepath",
@@ -9,13 +9,13 @@
 		"gulpplugin"
 	],
 	"author": {
-		"name": "anhulife",
-		"email": "anhulife@gmail.com"
+		"name": "ppilon",
+		"email": "pilon24@icloud.com"
 	},
-	"homepage": "https://github.com/anhulife/gulp-cdn-absolute-path",
+	"homepage": "https://github.com/ppilon/gulp-replace-assets-path",
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:anhulife/gulp-cdn-absolute-path.git"
+		"url": "git@github.com:ppilon/gulp-replace-assets-path.git"
 	},
 	"scripts": {
 		"test": "mocha"
