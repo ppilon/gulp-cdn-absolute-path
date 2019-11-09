@@ -1,6 +1,6 @@
 {
 	"name": "gulp-replace-assets-path",
-	"version": "0.0.6",
+	"version": "0.0.7",
 	"description": "A gulp plugin for replacing local path with a cdn path",
 	"license": "MIT",
 	"keywords": [
